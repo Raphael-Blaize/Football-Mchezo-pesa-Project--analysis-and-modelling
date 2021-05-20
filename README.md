@@ -49,6 +49,15 @@ A prediction result of a game between team 1 and team 2, based on who's home and
 * Multicollinearity tests
 * Heteroskdasticity tests
    
+### Technologies
+* Python
+* Pandas,Numpy,Gooogle Colab
+
+
+```python
+import pandas as pd # python library that import datasets into a working env and does so much more such as helping in cleaning datasets etc
+import numpy as np # offers comprehensive mathematical functions etc
+```
 
 
 
