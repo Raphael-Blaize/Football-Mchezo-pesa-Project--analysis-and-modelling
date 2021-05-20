@@ -59,6 +59,16 @@ import pandas as pd # python library that import datasets into a working env and
 import numpy as np # offers comprehensive mathematical functions etc
 ```
 
+ * Data Preprocessing Methods used
+    *  Boxplots to get rid of outliers in the data
+    *  No null/missing values in the dataset 
+    *  No duplicates in the dataset
+    *  Concatinating and Merging of columns in the dataset
+    *  Dropping of unnecessary columns in the dataset
+    *  Creating Dummy variabels
+    *  Label  Encoding 
+    *  Changing of Date type columns 
+    
 
 
 
