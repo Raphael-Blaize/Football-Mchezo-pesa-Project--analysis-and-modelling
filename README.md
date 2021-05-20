@@ -33,6 +33,10 @@ Approach 2: Logistic approach
 
 Feature Engineering: Figure out from the home team’s perspective if the game is a Win, Lose or Draw (W, L, D)
 
+#### -- Project Status: [Completed]
+
+## Project Intro/Objective
+
 
 
 
