@@ -69,6 +69,32 @@ import numpy as np # offers comprehensive mathematical functions etc
     *  Label  Encoding 
     *  Changing of Date type columns 
     
+ * Data Analysis used
+      * Univariate Analysis 
+          * Frequency Distibutions
+          * Bar graphs
+          * Descriptive Statistics
+              * Standard deviation
+              * Mean
+              * Variance
+              * Skewness
+              * Kurtosis
+       * Bivariate Analysis
+           * Stacked column chart to understand the variables better and how the correlate
+           * scatterplots
+       * Univariate Analysis 
+           * Pair plots
+  * Modelling
+       * Multicollinearity  tests
+           * Using VIF to check for multicollinearity in our dataset
+       * Heteroskdestacity tests
+            * Residual plots
+            * Bartlett's test
+       * Machine Learning algorithms
+            * Polynomial Regression
+            * Logistic Regression
+       * K-fold cross validation
+       * Grid-search 
 
 
 
