@@ -37,7 +37,22 @@ Feature Engineering: Figure out from the home team’s perspective if the game i
 
 ## Project Intro/Objective
 
+A prediction result of a game between team 1 and team 2, based on who's home and who's away, and on whether or not the game is friendly (include rank in your training).
+
+### Methods Used
+* Descriptive Statistics
+* Data Visualization
+* Data Analysis
+* EDA Analysis
+* Machine learning Algorithms
+* Kfold cross-validation
+* Multicollinearity tests
+* Heteroskdasticity tests
+   
 
 
 
+
+
+           
 
