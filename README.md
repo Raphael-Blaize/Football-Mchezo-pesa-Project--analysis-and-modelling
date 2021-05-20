@@ -1,4 +1,4 @@
-# Football-Mchezo-pesa-Project--analysis-and-moddelling
+# Football-Mchezo-pesa-Project--analysis-and-modelling
 
 ## Links to the various tools used 
 
