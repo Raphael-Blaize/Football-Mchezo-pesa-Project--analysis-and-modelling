@@ -96,6 +96,22 @@ import numpy as np # offers comprehensive mathematical functions etc
        * K-fold cross validation
        * Grid-search 
 
+   
+## Needs of this project
+- data exploration/descriptive statistics
+- data processing/cleaning - involves taking care of missing data, outliers and duplicates before after merging the datasets
+- Data Analysis 
+- Modelling
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate
+
+## License
+[GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
 
 
 
