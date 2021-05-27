@@ -83,7 +83,7 @@ import numpy as np # offers comprehensive mathematical functions etc
        * Bivariate Analysis
            * Stacked column chart to understand the variables better and how the correlate
            * scatterplots
-       * Univariate Analysis 
+       * Mulitvariate Analysis 
            * Pair plots
   * Modelling
        * Multicollinearity  tests
